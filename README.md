@@ -4,7 +4,7 @@
 
 <p align="center">
   •
-  <b><a href="https://t.me/BeeZee">Telegram</a></b>
+  <b><a href="https://t.me/BeeZee39">Telegram</a></b>
   •
   <b><a href="mailto:kiryllpodgol@gmail.com">Email me</a></b>
   •
