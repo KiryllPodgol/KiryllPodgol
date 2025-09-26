@@ -6,7 +6,8 @@
 
 <h2 align="center">About me</h2>
 
-<h3>Hi! I'm Kirill — a passionate Unity Engine developer focused on creating engaging games and interactive experiences. I enjoy bringing creative ideas to life through code and constantly learning new technologies.</h3>
+<h3>Hi! I'm Kirill — a passionate Unity game developer focused on creating engaging games. </h3>
+<h3>I enjoy writing clean code and exploring new technologies in game development.</h3>
 
 <h3>Thanks for visiting!</h3>
 
